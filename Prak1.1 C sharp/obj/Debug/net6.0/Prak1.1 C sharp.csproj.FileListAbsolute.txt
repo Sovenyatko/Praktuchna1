@@ -1,0 +1,15 @@
+C:\Users\Наталия\Desktop\KODIK\Prak1 C sharp\Prak1.1 C sharp\bin\Debug\net6.0\Prak1.1 C sharp.exe
+C:\Users\Наталия\Desktop\KODIK\Prak1 C sharp\Prak1.1 C sharp\bin\Debug\net6.0\Prak1.1 C sharp.deps.json
+C:\Users\Наталия\Desktop\KODIK\Prak1 C sharp\Prak1.1 C sharp\bin\Debug\net6.0\Prak1.1 C sharp.runtimeconfig.json
+C:\Users\Наталия\Desktop\KODIK\Prak1 C sharp\Prak1.1 C sharp\bin\Debug\net6.0\Prak1.1 C sharp.dll
+C:\Users\Наталия\Desktop\KODIK\Prak1 C sharp\Prak1.1 C sharp\bin\Debug\net6.0\Prak1.1 C sharp.pdb
+C:\Users\Наталия\Desktop\KODIK\Prak1 C sharp\Prak1.1 C sharp\obj\Debug\net6.0\Prak1.1 C sharp.csproj.AssemblyReference.cache
+C:\Users\Наталия\Desktop\KODIK\Prak1 C sharp\Prak1.1 C sharp\obj\Debug\net6.0\Prak1.1 C sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Наталия\Desktop\KODIK\Prak1 C sharp\Prak1.1 C sharp\obj\Debug\net6.0\Prak1.1 C sharp.AssemblyInfoInputs.cache
+C:\Users\Наталия\Desktop\KODIK\Prak1 C sharp\Prak1.1 C sharp\obj\Debug\net6.0\Prak1.1 C sharp.AssemblyInfo.cs
+C:\Users\Наталия\Desktop\KODIK\Prak1 C sharp\Prak1.1 C sharp\obj\Debug\net6.0\Prak1.1 C sharp.csproj.CoreCompileInputs.cache
+C:\Users\Наталия\Desktop\KODIK\Prak1 C sharp\Prak1.1 C sharp\obj\Debug\net6.0\Prak1.1 C sharp.dll
+C:\Users\Наталия\Desktop\KODIK\Prak1 C sharp\Prak1.1 C sharp\obj\Debug\net6.0\refint\Prak1.1 C sharp.dll
+C:\Users\Наталия\Desktop\KODIK\Prak1 C sharp\Prak1.1 C sharp\obj\Debug\net6.0\Prak1.1 C sharp.pdb
+C:\Users\Наталия\Desktop\KODIK\Prak1 C sharp\Prak1.1 C sharp\obj\Debug\net6.0\Prak1.1 C sharp.genruntimeconfig.cache
+C:\Users\Наталия\Desktop\KODIK\Prak1 C sharp\Prak1.1 C sharp\obj\Debug\net6.0\ref\Prak1.1 C sharp.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prak1 C sharp", "Prak1 C sharp\Prak1 C sharp.csproj", "{FB68E6C7-0EE4-4F28-9279-AB88D44F031A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prak1.1 C sharp", "Prak1.1 C sharp\Prak1.1 C sharp.csproj", "{5B7C8C61-09AF-4A8F-AC27-220D22E540DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB68E6C7-0EE4-4F28-9279-AB88D44F031A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB68E6C7-0EE4-4F28-9279-AB88D44F031A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB68E6C7-0EE4-4F28-9279-AB88D44F031A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB68E6C7-0EE4-4F28-9279-AB88D44F031A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B7C8C61-09AF-4A8F-AC27-220D22E540DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B7C8C61-09AF-4A8F-AC27-220D22E540DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B7C8C61-09AF-4A8F-AC27-220D22E540DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B7C8C61-09AF-4A8F-AC27-220D22E540DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C3303E6-724B-49F4-88BA-03957D76D719}
+	EndGlobalSection
+EndGlobal
